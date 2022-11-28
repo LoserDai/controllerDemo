@@ -1,6 +1,6 @@
 package com.com.df.service;
 
-import com.com.df.util.StatusCode;
+import com.com.df.enums.StatusCode;
 import com.com.df.vo.QueryWapper;
 
 /**

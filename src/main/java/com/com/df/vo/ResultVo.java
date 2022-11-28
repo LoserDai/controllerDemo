@@ -1,7 +1,7 @@
 package com.com.df.vo;
 
-import com.com.df.util.ResultCode;
-import com.com.df.util.StatusCode;
+import com.com.df.enums.ResultCode;
+import com.com.df.enums.StatusCode;
 import lombok.Data;
 
 /**

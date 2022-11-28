@@ -1,4 +1,4 @@
-package com.com.df.util;
+package com.com.df.enums;
 
 /**
  * @Author feng.dai
